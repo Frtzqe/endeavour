@@ -7,7 +7,7 @@ This language (endeavour) lives, for now, only in a private fork of OpenD. But, 
 
 Consider this repository as a future place holder for the OpenD language. 
 
-# meander
+## meander
 Already some syntactical changes to OpenD / endeavour are being developed, independently of the troika D / OpenD / endeavour, and resulted in yet another new language, "meander". 
 
 For now, meander lives in a private repository. 
