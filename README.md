@@ -3,6 +3,11 @@ General-purpose systems programming language with a C-like syntax that compiles 
 
 For now, I refer you to the "OpenD" language, which was forked on January 1st, 2024 from the D language. 
 
-This language (endeavour) lives, for now, only in a private fork of OpenD. In fact, it is the same language (for now), but the first small syntax changes are in development. 
+This language (endeavour) lives, for now, only in a private fork of OpenD. But, in fact, it is exactly the same language with a changed name.
 
 Consider this repository as a future place holder for the OpenD language. 
+
+# meander
+Already some syntactical changes to OpenD / endeavour are being developed, and resulted in yet another new language, "meander". 
+
+For now, meander lives in a private repository. 
